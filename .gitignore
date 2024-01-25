@@ -6,6 +6,8 @@ media/*
 
 db.sqlite3
 
+venv/
+
 *.log
 local_settings.py
 **/django3/*
